@@ -43,6 +43,8 @@ with open('banner_dir/banner.bcwav','wb') as f:
 
         # 3. Strip trailing "standard"
         sub(/[-_ .]?[Ss]tandard$/, "", s)
+	sub(/[-_ .]?[Dd]ecrypted$/, "", s)
+	sub(/[-_ .]?[Pp]iratelegit$/, "", s)
 
         # 4. Move leading article BEFORE sanitization, while " - " is still intact
         #    "The Legend of Zelda - A Link Between Worlds (USA)"
