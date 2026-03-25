@@ -16,6 +16,26 @@
       "file": "jingles/n3ds/boxboy.wav"
     },
     {
+      "name": "Captain Toad - Treasure Tracker",
+      "file": "jingles/n3ds/captain-toad-treasure-tracker.wav"
+    },
+    {
+      "name": "Cooking Mama - Sweet Shop",
+      "file": "jingles/n3ds/cooking-mama-sweet-shop.wav"
+    },
+    {
+      "name": "Cooking Mama 5 - Bon Appetit",
+      "file": "jingles/n3ds/cooking-mama-5-bon-appetit.wav"
+    },
+    {
+      "name": "Culdcept Revolt",
+      "file": "jingles/n3ds/culdcept-revolt.wav"
+    },
+    {
+      "name": "Etrian Odyssey V - Beyond the Myth",
+      "file": "jingles/n3ds/etrian-odyssey-v-beyond-the-myth.wav"
+    },
+    {
       "name": "Fantasy Life",
       "file": "jingles/n3ds/fantasy-life.wav"
     },
@@ -28,12 +48,20 @@
       "file": "jingles/n3ds/fossil-fighters-frontier.wav"
     },
     {
+      "name": "Hatsune Miku - Project Mirai DX",
+      "file": "jingles/n3ds/hatsune-miku-project-mirai-dx.wav"
+    },
+    {
       "name": "Hey! Pikmin",
       "file": "jingles/n3ds/hey-pikmin.wav"
     },
     {
       "name": "Kid Icarus - Uprising",
       "file": "jingles/n3ds/kid-icarus-uprising.wav"
+    },
+    {
+      "name": "Kingdom Hearts 3D - Dream Drop Distance",
+      "file": "jingles/n3ds/kingdom-hearts-3d-dream-drop-distance.wav"
     },
     {
       "name": "Kirby - Planet Robobot",
@@ -64,6 +92,10 @@
       "file": "jingles/n3ds/luigis-mansion.wav"
     },
     {
+      "name": "Luigi's Mansion - Dark Moon",
+      "file": "jingles/n3ds/luigis-mansion-dark-moon.wav"
+    },
+    {
       "name": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
       "file": "jingles/n3ds/mario-luigi-bowsers-inside-story-bowser-jrs-journey.wav"
     },
@@ -72,12 +104,20 @@
       "file": "jingles/n3ds/mario-luigi-dream-team.wav"
     },
     {
+      "name": "Mario & Luigi - Paper Jam",
+      "file": "jingles/n3ds/mario-luigi-paper-jam.wav"
+    },
+    {
       "name": "Mario & Luigi - Superstar Saga + Bowser's Minions",
       "file": "jingles/n3ds/mario-luigi-superstar-saga-bowsers-minions.wav"
     },
     {
       "name": "Mario Kart 7",
       "file": "jingles/n3ds/mario-kart-7.wav"
+    },
+    {
+      "name": "Metal Gear Solid 3D - Snake Eater",
+      "file": "jingles/n3ds/metal-gear-solid-3d-snake-eater.wav"
     },
     {
       "name": "Metroid - Samus Returns",
@@ -112,6 +152,10 @@
       "file": "jingles/n3ds/pokemon-sun.wav"
     },
     {
+      "name": "Pokemon Super Mystery Dungeon",
+      "file": "jingles/n3ds/pokemon-super-mystery-dungeon.wav"
+    },
+    {
       "name": "Pokemon Ultra Moon",
       "file": "jingles/n3ds/pokemon-ultra-moon.wav"
     },
@@ -136,8 +180,20 @@
       "file": "jingles/n3ds/professor-layton-vs-phoenix-wright-ace-attorney.wav"
     },
     {
+      "name": "Rhythm Paradise Megamix",
+      "file": "jingles/n3ds/rhythm-paradise-megamix.wav"
+    },
+    {
       "name": "Shin Megami Tensei IV",
       "file": "jingles/n3ds/shin-megami-tensei-iv.wav"
+    },
+    {
+      "name": "Shovel Knight Treasure Trove",
+      "file": "jingles/n3ds/shovel-knight-treasure-trove.wav"
+    },
+    {
+      "name": "Star Fox 64 3D",
+      "file": "jingles/n3ds/star-fox-64-3d.wav"
     },
     {
       "name": "Super Mario 3D Land",
@@ -174,6 +230,18 @@
     {
       "name": "Yo-Kai Watch 3",
       "file": "jingles/n3ds/yo-kai-watch-3.wav"
+    },
+    {
+      "name": "Yoshi's New Island",
+      "file": "jingles/n3ds/yoshis-new-island.wav"
+    },
+    {
+      "name": "Zero Escape - Virtue's Last Reward",
+      "file": "jingles/n3ds/zero-escape-virtues-last-reward.wav"
+    },
+    {
+      "name": "Zero Escape - Zero Time Dilemma",
+      "file": "jingles/n3ds/zero-escape-zero-time-dilemma.wav"
     }
   ],
   "ps2": [
